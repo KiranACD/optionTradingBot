@@ -95,8 +95,8 @@ from fyers_api import fyersModel
 from fyers_api import accessToken
 
 # Telegram credentials
-bot_token = '1941215362:AAHQHxrmzXiZ_jvqAU3BYq8-Cp62pPoHxCU'
-chat_id = -565361309
+bot_token = ****
+chat_id = ****
 bot = telegram.Bot(token=bot_token)
 
 # Class that has two functions. One that generates a trade id for a trade object that is generated upon an entry signal
